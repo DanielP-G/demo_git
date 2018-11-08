@@ -1,4 +1,4 @@
 # demo_git
 Pemier repository
-premier modofication et commit.
+premier modification et commit.
 
